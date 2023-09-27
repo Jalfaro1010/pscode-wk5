@@ -1,0 +1,36 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+(Your pseudocode here)
+
+a = 5
+b = 9
+a + b = sum
+
+// Exercise 2: Check if a Number is Even or Odd
+(Your pseudocode here)
+
+ if number is even = true print out "even"
+ else print out "odd"
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Your pseudocode here)
+A: Create function to recieve an input of a number. 1,2,3,4,5
+
+B: Add the following number to the previsou sum. 0+1=1, then 1+2=3, then 3+3=6, and so on.
+Once all values have been added together you can then declare a variable for the average. The average will be the sum total / 3 
+
+C: The function will take in each input and store it until you want your answer. Store numbers 1,2,3,4,5. Once function is ran it will show 1 as minimum and 5 as maximum
+
+D: Just printing out the answer.
+print 'average of the five numbers is:"
+print "minimum number of the five numbers is:"
+print "maximum number of the five numbers is:"
+
+
+-- END --
